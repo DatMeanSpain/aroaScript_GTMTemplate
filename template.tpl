@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Aroa Sync",
-  "categories": ["ADVERTISING","ANALYTICS"]
+  "categories": ["ADVERTISING","ANALYTICS"],
   "brand": {
     "id": "AroaDatMean",
     "displayName": "Aroa",
