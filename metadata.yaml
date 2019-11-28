@@ -2,6 +2,6 @@ homepage: "https://www.datmean.com/"
 documentation: "https://www.aroa.io/"
 versions:
   # Latest version
-  - sha: 269e7bec8edd223079a3c521c100afd9bcbb4bd9
+  - sha: ba2d7a0b8392cc8e00929e6b3c8fabbc50c0e22a
     changeNotes: First template metadata.
   # Older versions
