@@ -2,6 +2,9 @@ homepage: "https://www.datmean.com/"
 documentation: "https://www.aroa.io/"
 versions:
   # Latest version
+  - sha: 0b315775cc3b993e9198a7e773148dd6fc5e9177
+    changeNotes: Add simple tag feature.
+  # Older versions
   - sha: e48b6a56caa11c85a702686db036173861dba015
     changeNotes: First template metadata.
-  # Older versions
+  
